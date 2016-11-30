@@ -1,0 +1,17 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+        {
+            "name": "Overkill Lua Syntax",
+            "author": "James Wilkinson <james.wilkinson@starbreeze.com>",
+            "details": "https://github.com/james-wilkinson-sb/overkill-lua-syntax",
+            "releases": [
+                {
+                    "sublime_text": "*",
+                    "tags": true
+                }
+            ],
+            "labels": [""]
+        }
+    ]
+}
